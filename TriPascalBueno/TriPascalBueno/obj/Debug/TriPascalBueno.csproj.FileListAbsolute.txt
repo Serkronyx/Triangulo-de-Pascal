@@ -1,0 +1,6 @@
+c:\users\sergio\documents\visual studio 2012\Projects\TriPascalBueno\TriPascalBueno\bin\Debug\TriPascalBueno.exe.config
+c:\users\sergio\documents\visual studio 2012\Projects\TriPascalBueno\TriPascalBueno\bin\Debug\TriPascalBueno.exe
+c:\users\sergio\documents\visual studio 2012\Projects\TriPascalBueno\TriPascalBueno\bin\Debug\TriPascalBueno.pdb
+c:\users\sergio\documents\visual studio 2012\Projects\TriPascalBueno\TriPascalBueno\obj\Debug\TriPascalBueno.csprojResolveAssemblyReference.cache
+c:\users\sergio\documents\visual studio 2012\Projects\TriPascalBueno\TriPascalBueno\obj\Debug\TriPascalBueno.exe
+c:\users\sergio\documents\visual studio 2012\Projects\TriPascalBueno\TriPascalBueno\obj\Debug\TriPascalBueno.pdb
